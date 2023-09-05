@@ -1,0 +1,11 @@
+mongo db is an open source no sql  
+it is a tool that can manage document orient reputation
+it is used for high volume data storage helping organisation to store large amount of data while performing DB
+sql;- it is database management system 
+no sql: it is distributed data base management
+sql : it has a database  
+no sql: it has dynamic 
+sql: database are not sutaible for hierachical 
+no sql;best for hierachical
+sql: it is vertical scalable
+no sql: horizontal scalable
